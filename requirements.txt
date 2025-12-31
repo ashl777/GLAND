@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scanpy
+scikit-learn
+scipy
+torch
+torch_geometric
+torch_sparse
+tqdm
+faiss-cpu
+pot
+rpy2
