@@ -15,7 +15,7 @@ cd GLAND
 # Install dependencies
 pip install -r requirements.txt
 
-For detailed instructions, including R environment configuration and GPU setup, please visit our [Installation Guide]([https://github.com/jianhuig/SpaGCN](https://gland.readthedocs.io/en/latest/installation.html)).
+For detailed instructions, including R environment configuration and GPU setup, please visit our [Installation Guide](https://gland.readthedocs.io/en/latest/installation.html).
 
 ## Compared Tools
 
@@ -57,6 +57,7 @@ If you have any questions, please do not hesitate to contact us at:
 ## Cite
 
 [Placeholder: Add your paper citation here]
+
 
 
 
