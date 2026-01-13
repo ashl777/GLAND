@@ -17,7 +17,7 @@ The following state-of-the-art methods were used for performance benchmarking:
 * [ConST](https://github.com/rli012/ConST)
 * [STAGATE](https://github.com/QIAO-SU/STAGATE)
 * [SpaceFlow](https://github.com/hongleir/SpaceFlow)
-* [GraphST](https://github.com/DeepST-org/GraphST)
+* [GraphST](https://github.com/JinmiaoChenLab/GraphST)
 
 ---
 
@@ -53,3 +53,4 @@ If you have any questions, please do not hesitate to contact us at:
 ## Cite
 
 [Placeholder: Add your paper citation here]
+
