@@ -1,7 +1,7 @@
-GLAND: Graph-based Learning for Spatial Transcriptomics
+GLAND: A Global and Local Attention‐Based Framework for Detecting Small and Non‐Continuous Spatial Domains
 =======================================================
 
-Welcome to the official documentation for GLAND. This tutorial provides a step-by-step guide to identifying spatial domains and integrating multi-omics data.
+Welcome to the official documentation for GLAND. This tutorial provides a step-by-step guide to processing spatial transcriptomics data and identifying spatial domains.
 
 .. toctree::
    :maxdepth: 1
@@ -11,16 +11,16 @@ Welcome to the official documentation for GLAND. This tutorial provides a step-b
 
 .. toctree::
    :maxdepth: 2
-   :caption: Tutorial 1: 10X Visium
+   :caption: Tutorial 1: DLPFC
 
    tutorial_1/GLAND-Tutorial1.ipynb
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Tutorial 2: scRNA and ST data integration (deconvolution)
+   :maxdepth: 3
+   :caption: Tutorial 2: Hepatic Lobular
 
-   tutorial_2/integration
+   tutorial_2/GLAND-Tutorial2.ipynb
 
 About GLAND
 -----------
-GLAND is designed to extract high-level features from spatial transcriptomics data using graph-based contrastive learning. It is compatible with various platforms, including 10X Visium, Slide-seq, and Stereo-seq.
+GLAND is designed to extract high-level features from spatial transcriptomics data. It is compatible with various platforms, including 10X Visium, Slide-seq, and Stereo-seq.
