@@ -1,5 +1,4 @@
 # GLAND: A Global and Local Attention‐Based Framework for Detecting Small and Non‐Continuous Spatial Domains
-Overview
 
 ## Overview
 [Placeholder: Add a brief description of GLAND here, e.g., "GLAND is a graph-based self-supervised contrastive learning framework designed for processing spatial transcriptomics data and identifying spatial domains with high precision."]
@@ -44,6 +43,7 @@ If you have any questions, please do not hesitate to contact us at:
 ## Cite
 
 [Placeholder: Add your paper citation here]
+
 
 
 
