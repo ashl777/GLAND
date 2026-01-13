@@ -8,7 +8,7 @@ extensions = [
     'sphinx_rtd_theme',
     'nbsphinx',
 ]
-
+root_doc = 'index'
 source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
