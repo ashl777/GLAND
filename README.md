@@ -13,7 +13,7 @@ git clone [https://github.com/CSUBioGroup/GLAND.git](https://github.com/CSUBioGr
 cd GLAND
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 For detailed instructions, including R environment configuration and GPU setup, please visit our [Installation Guide](https://gland.readthedocs.io/en/latest/installation.html).
 
@@ -57,6 +57,7 @@ If you have any questions, please do not hesitate to contact us at:
 ## Cite
 
 [Placeholder: Add your paper citation here]
+
 
 
 
