@@ -1,44 +1,38 @@
-# GLAND
+GLAND: A Global and Local Attention‐Based Framework for Detecting Small and Non‐Continuous Spatial Domains
+Overview
+[Placeholder: Add a brief description of GLAND here, e.g., "GLAND is a graph-based self-supervised contrastive learning framework designed for processing spatial transcriptomics data and identifying spatial domains with high precision."]
 
-GLAND is a spatial transcriptomics analysis tool designed to decipher spatial domains and cell-cell interactions.
+Compared Tools
+The following state-of-the-art methods were used for performance benchmarking:
 
-## Installation
+SpaGCN
 
-To install the required dependencies, run:
+CCST
 
-```bash
-pip install -r requirements.txt
-```
+conST
 
-You can also install the package using `setup.py`:
+DeepST
 
-```bash
-python setup.py install
-```
+STAGATE
 
-## Usage
+SpaceFlow
 
-Here is a basic example of how to use GLAND:
+GraphST
 
-```python
-import scanpy as sc
-from GLAND import GLAND
 
-# Load your data
-adata = sc.read_h5ad('path/to/your/data.h5ad')
+Download Data
+The datasets used in this study can be downloaded from Zenodo: 👉 https://zenodo.org/records/18149768
 
-# Initialize and train the model
-model = GLAND(adata)
-adata = model.train()
+License
+This project is covered under the Apache 2.0 License.
 
-# The result is stored in adata.obsm['emb']
-print(adata.obsm['emb'])
-```
+Tutorial
+For the step-by-step tutorial on data processing and spatial domain identification, please refer to our official documentation: 📖 https://gland.readthedocs.io/en/latest/index.html#
 
-## Requirements
+Contact / 联系
+If you have any questions, please do not hesitate to contact us at: 如有任何疑问，请随时通过以下方式联系我们：
 
-- Python 3.8+
-- PyTorch
-- PyTorch Geometric
-- Scanpy
-- Faiss
+📩 Email: 244712166@csu.edu.cn
+
+Cite
+[Placeholder: Add your paper citation here]
