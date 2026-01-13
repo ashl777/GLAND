@@ -1,5 +1,5 @@
 project = 'GLAND'
-copyright = '2024, kai'
+copyright = '2026, kai'
 author = 'kai'
 
 # 扩展：启用 Markdown 支持和 RTD 主题
