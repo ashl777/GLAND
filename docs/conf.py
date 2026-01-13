@@ -6,6 +6,7 @@ author = 'kai'
 extensions = [
     'myst_parser',
     'sphinx_rtd_theme',
+    'nbsphinx',
 ]
 
 source_suffix = {
