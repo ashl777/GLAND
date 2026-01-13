@@ -1,8 +1,12 @@
 # Welcome to GLAND Documentation
 
-## Contents
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
+:caption: Installation
 
-self
-tutorial
+installation
+
+:maxdepth: 2
+:caption: Tutorial 1: 10X Visium
+
+tutorial_1/visium
